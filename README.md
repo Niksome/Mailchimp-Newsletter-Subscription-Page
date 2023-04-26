@@ -31,4 +31,4 @@ If you want for other people to be able to visit your newsletter subscription pa
 
 ### Uploading the files to Heroku
 
-Documentation comming soon.[EOF]
+Documentation comming soon.
